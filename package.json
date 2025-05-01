@@ -5,7 +5,7 @@
     "keywords": [ "Node.js", "Guide", "Back-End" ,"freecodecamp"],
 	"dependencies": {
 		"package-name": "0.1",
-		"express": "^4.14.0",
+		"express": "5.1.0",
         "@freecodecamp/example":"2.0.0"
 	},
 	"main": "server.js",
