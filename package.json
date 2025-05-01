@@ -1,11 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":  "mohammad rahgoshay"
-	,
+	"author":  "mohammad rahgoshay"	,
+	"description": "A project Guide freeCodeCamp Node.js",
+    "keywords": [ "Node.js", "Guide", "Back-End" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"description": "A project Guide freeCodeCamp Node.js",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
