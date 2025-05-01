@@ -6,7 +6,7 @@
 	"dependencies": {
 		"package-name": "0.1",
 		"express": "5.1.0",
-        "@freecodecamp/example":"1.2.13",
+        "@freecodecamp/example":"~1.2.13",
 		"package": "MAJOR.MINOR.PATCH"
 
 	},
